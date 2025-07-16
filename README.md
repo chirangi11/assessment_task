@@ -5,5 +5,5 @@ This React-based app supports:
 - Direct allocation value input
 - Variance calculation logic
 
-### 🔗 Live Demo (if hosted)
+### 🔗 Live Demo
 [Click to view](https://chirangi11.github.io/assessment_task)
